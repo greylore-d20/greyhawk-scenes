@@ -1,0 +1,20 @@
+{
+  "id": "greyhawk-scenes",
+  "title": "Greyhawk Scenes",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Greylore",
+      "discord": "lordgreylore",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "description": ""
+}
