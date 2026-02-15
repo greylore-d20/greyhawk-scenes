@@ -18,14 +18,5 @@
   "flags": {
     "canUpload": true
   },
-  "description": "Greyhawk Scenes",
-  "packs": [
-    {
-      "name": "scenes",
-      "label": "Greyhawk Scenes",
-      "path": "packs/scenes.db",
-      "entity": "Scene",
-      "module": "greyhawk-scenes"
-    }
-  ]
+  "description": "Greyhawk Scenes"
 }
