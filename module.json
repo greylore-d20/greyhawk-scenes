@@ -18,5 +18,17 @@
   "flags": {
     "canUpload": true
   },
-  "description": "Greyhawk Scenes"
+  "description": "Greyhawk Scenes",
+  "packs": [
+    {
+      "name": "greyhawk-scenes",
+      "label": "Greyhawk Scenes",
+      "path": "packs/totm",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
 }
